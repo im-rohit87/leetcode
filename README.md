@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/im-rohit87/leetcode/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/im-rohit87/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2396-strictly-palindromic-number](https://github.com/im-rohit87/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/im-rohit87/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/im-rohit87/leetcode/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/im-rohit87/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/im-rohit87/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
